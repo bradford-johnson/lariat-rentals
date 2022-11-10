@@ -6,4 +6,4 @@
 > |:---:|:---:|
 > | [<img src="images/static/filetype-pptx.svg" width="54px">](https://1drv.ms/p/s!Ahpkb3AfX4xfhLwtwCAS3g6L6ZA6sQ?e=3JhUY6) | [<img src="images/static/filetype-pptx.svg" width="54px">](https://1drv.ms/x/s!Ahpkb3AfX4xfhLw5nv0BCOoHdWSS5g?e=knZCre) |
 
-## Project Summary
+## Project Summary 🗒️
