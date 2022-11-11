@@ -21,12 +21,22 @@ Click the icons or text below to see my project files and deliverables
 
 ### `🔧- Methods`
 ```
+- Data cleaning and exploration
+- Defining parameters
 - Group vehicles by model year for baseline
 - Break down "the numbers" to the daily level (ex. Revenue per day, cost per day...)
 - Create a user scenario that can take custom values and apply them to the baseline
 ```
+<img src ="images/dynamic/days-rented.png">
 <img src ="images/dynamic/baseline-table.png">
+<img src ="images/dynamic/us-table.png">
 
 ### `🔍- Findings`
+```
+- Newer cars from model years 2017 and 2018 are rented slightly more than 2016 models
+- The baseline costs and revenues across the 3 different car model years are very similar
+- The top 4 most popular car makes, determined by having the most days rented, are Ford, Chevrolet, Dodge, and Toyota respectively
 
+
+```
 ### `💡- Recommendations`
