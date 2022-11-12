@@ -34,7 +34,7 @@ Click the icons or text below to see my project files and deliverables
 
 ### `🔍- Findings`
 ```
-- The top 4 most popular car makes, determined by having the most days rented: Ford, Chevrolet, Dodge, and Toyota 
+- The top 4 most popular car makes: Ford, Chevrolet, Dodge, and Toyota 
   - These 4 car makes account for over ¼ of the rental fleet
 - The daily revenue and cost per car does not vary much by model year
 - Total rental days is not significantly different among the 3 different car model years
