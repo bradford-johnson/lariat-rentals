@@ -1,3 +1,11 @@
+<!--- YAML header for Quarto
+title: "Lariat Rentals"
+author: "Bradford Johnson"
+date: "09/05/2022"
+format: html
+editor: visual
+--->
+
 [<img src="images/dynamic/lariat-logo.jpg" width="358px"/>](https://github.com/bradfordjohnson/lariat-rentals/blob/main/README.md)
 
 ## Project Summary 🗒️
@@ -56,7 +64,7 @@
 
     -   These 4 car makes account for over ¼ of the rental fleet
 
-    <img src="images/dynamic/makes.png" height="150px"/>
+        <img src="images/dynamic/makes.png" height="150px"/>
 
 -   The daily revenue and cost per car does not vary much by model year
 
