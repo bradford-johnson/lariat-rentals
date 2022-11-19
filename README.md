@@ -1,10 +1,12 @@
-<!--- YAML header for Quarto
+<!--- YAML HEADER
 title: "Lariat Rentals"
-author: "Bradford Johnson"
 date: "09/05/2022"
+image: "images/dynamic/lariat-logo.jpg"
 format: html
 editor: visual
 --->
+
+*Rental fleet business analysis \| Revenue growth model*
 
 [<img src="images/dynamic/lariat-logo.jpg" width="358px"/>](https://github.com/bradfordjohnson/lariat-rentals/blob/main/README.md)
 
