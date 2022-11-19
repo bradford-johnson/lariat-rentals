@@ -36,7 +36,7 @@
 
 -   Defining parameters
 
-    <img src="images/dynamic/days-rented.png"/>
+    <img src="images/dynamic/days-rented-1.png"/>
 
 -   Group vehicles by model year for baseline
 
